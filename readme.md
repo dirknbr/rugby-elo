@@ -16,23 +16,23 @@ The ELO ranking is very similar to the [official ranking](https://www.world.rugb
 
 ## Ranking 
 
-542.8 South Africa
-488.3 New Zealand
-451.1 France
-441.3 Ireland
-413.5 Samoa
-412.3 Argentina
-399.9 England
-380.6 Scotland
-367.2 Fiji
-362.4 Georgia
-362.3 Australia
-353.9 Wales
-347.3 Tonga
-342.7 Japan
-334.4 Italy
+605.3 Ireland
+576.9 South Africa
+570.6 New Zealand
+523.9 France
+447.0 England
+433.2 Scotland
+410.4 Fiji
+380.0 Argentina
+374.4 Australia
+319.9 Wales
+294.7 Italy
+289.1 Samoa
+275.6 Georgia
+264.9 Japan
+234.0 Tonga
 
-Last updated: Nov 2025
+Last updated: Nov 2024
 
 ## Investec ranking
 
