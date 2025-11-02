@@ -1,374 +1,374 @@
 date,hometeam,awayteam,home,away
-13 Sep 25,Australia,Argentina,15,19
-06 Sep 25,Australia,Argentina,14,28
-07 Sep 24,Argentina,Australia,33,24
-31 Aug 24,Argentina,Australia,26,28
-15 Jul 23,Australia,Argentina,28,24
-12 Jul 25,Argentina,England,5,40
-05 Jul 25,Argentina,England,17,22
-27 Oct 23,Argentina,England,12,35
-09 Sep 23,England,Argentina,14,68
-06 Nov 22,England,Argentina,47,24
-15 Nov 24,Ireland,Argentina,7,106
-10 Nov 18,Ireland,Argentina,5,34
-25 Nov 17,Ireland,Argentina,17,22
-08 Oct 23,Japan,Argentina,61,7
-05 Nov 16,Japan,Argentina,15,19
-22 Nov 24,France,Argentina,29,19
-13 Jul 24,Argentina,France,43,17
-06 Jul 24,Argentina,France,31,27
-21 Sep 19,France,Argentina,35,16
-17 Nov 18,France,Argentina,27,42
-24 Jun 17,Argentina,Georgia,27,29
-09 Nov 24,Italy,Argentina,45,0
-18 Nov 17,Italy,Argentina,42,24
-11 Jun 16,Argentina,Italy,6,73
-14 Nov 14,Italy,Argentina,17,22
-23 Aug 25,Argentina,New Zealand,27,29
-16 Aug 25,Argentina,New Zealand,67,30
-17 Aug 24,New Zealand,Argentina,26,28
-10 Aug 24,New Zealand,Argentina,28,24
-20 Oct 23,Argentina,New Zealand,29,23
-22 Sep 23,Argentina,Samoa,27,29
-19 Nov 22,Scotland,Argentina,26,29
-16 Jul 22,Argentina,Scotland,35,16
-09 Jul 22,Argentina,Scotland,35,29
-02 Jul 22,Argentina,Scotland,16,15
-24 Nov 18,Scotland,Argentina,18,32
+13 Sep 25,Australia,Argentina,26,28
+06 Sep 25,Australia,Argentina,28,24
+07 Sep 24,Argentina,Australia,67,27
+31 Aug 24,Argentina,Australia,19,20
+15 Jul 23,Australia,Argentina,31,34
+12 Jul 25,Argentina,England,17,22
+05 Jul 25,Argentina,England,12,35
+27 Oct 23,Argentina,England,23,26
+09 Sep 23,England,Argentina,27,10
+06 Nov 22,England,Argentina,29,30
+15 Nov 24,Ireland,Argentina,22,19
+10 Nov 18,Ireland,Argentina,28,17
+25 Nov 17,Ireland,Argentina,28,19
+08 Oct 23,Japan,Argentina,27,39
+05 Nov 16,Japan,Argentina,20,54
+22 Nov 24,France,Argentina,37,23
+13 Jul 24,Argentina,France,33,25
+06 Jul 24,Argentina,France,13,28
+21 Sep 19,France,Argentina,23,21
+17 Nov 18,France,Argentina,28,13
+24 Jun 17,Argentina,Georgia,45,29
+09 Nov 24,Italy,Argentina,18,50
+18 Nov 17,Italy,Argentina,15,31
+11 Jun 16,Argentina,Italy,30,24
+14 Nov 14,Italy,Argentina,18,20
+23 Aug 25,Argentina,New Zealand,29,23
+16 Aug 25,Argentina,New Zealand,24,41
+17 Aug 24,New Zealand,Argentina,42,10
+10 Aug 24,New Zealand,Argentina,30,38
+20 Oct 23,Argentina,New Zealand,6,44
+22 Sep 23,Argentina,Samoa,19,10
+19 Nov 22,Scotland,Argentina,52,29
+16 Jul 22,Argentina,Scotland,34,31
+09 Jul 22,Argentina,Scotland,6,25
+02 Jul 22,Argentina,Scotland,26,18
+24 Nov 18,Scotland,Argentina,14,9
 04 Oct 25,Argentina,South Africa,27,29
 27 Sep 25,South Africa,Argentina,67,30
-28 Sep 24,South Africa,Argentina,26,28
-21 Sep 24,Argentina,South Africa,28,24
-05 Aug 23,Argentina,South Africa,29,23
-28 Sep 19,Argentina,Tonga,27,29
-14 Oct 23,Wales,Argentina,22,31
-12 Nov 22,Wales,Argentina,24,19
-17 Jul 21,Argentina,Wales,14,68
-10 Jul 21,Argentina,Wales,35,29
-16 Jun 18,Argentina,Wales,18,27
-01 Nov 25,England,Australia,5,40
-09 Nov 24,England,Australia,17,22
-16 Jul 22,Australia,England,12,35
-09 Jul 22,Australia,England,14,68
-02 Jul 22,Australia,England,47,24
-30 Nov 24,Ireland,Australia,7,106
-19 Nov 22,Ireland,Australia,5,34
-23 Jun 18,Australia,Ireland,17,22
-16 Jun 18,Australia,Ireland,27,42
-09 Jun 18,Australia,Ireland,18,27
-25 Oct 25,Japan,Australia,61,7
-04 Nov 17,Japan,Australia,15,19
-06 Jul 25,Australia,Fiji,15,19
-17 Sep 23,Australia,Fiji,14,28
-21 Sep 19,Australia,Fiji,33,24
-10 Jun 17,Australia,Fiji,26,28
-27 Aug 23,France,Australia,29,19
-05 Nov 22,France,Australia,43,17
-17 Jul 21,Australia,France,31,27
-13 Jul 21,Australia,France,35,16
-07 Jul 21,Australia,France,27,42
-20 Jul 24,Australia,Georgia,15,19
-09 Sep 23,Australia,Georgia,14,28
-11 Oct 19,Australia,Georgia,33,24
-12 Nov 22,Italy,Australia,45,0
-17 Nov 18,Italy,Australia,42,24
-24 Jun 17,Australia,Italy,6,73
-04 Oct 25,Australia,New Zealand,15,19
-27 Sep 25,New Zealand,Australia,14,28
-28 Sep 24,New Zealand,Australia,33,24
-21 Sep 24,Australia,New Zealand,26,28
-05 Aug 23,New Zealand,Australia,28,24
-24 Nov 24,Scotland,Australia,26,29
-29 Oct 22,Scotland,Australia,35,16
-25 Nov 17,Scotland,Australia,35,29
-17 Jun 17,Australia,Scotland,16,15
-12 Nov 16,Scotland,Australia,18,32
-23 Aug 25,South Africa,Australia,61,7
-16 Aug 25,South Africa,Australia,27,29
-17 Aug 24,Australia,South Africa,67,30
-10 Aug 24,Australia,South Africa,10,43
-08 Jul 23,South Africa,Australia,24,17
-17 Nov 24,Wales,Australia,22,31
-13 Jul 24,Australia,Wales,24,19
-06 Jul 24,Australia,Wales,14,68
-24 Sep 23,Wales,Australia,35,29
-26 Nov 22,Wales,Australia,18,27
-01 Feb 25,Ireland,England,5,40
-09 Mar 24,England,Ireland,17,22
-19 Aug 23,Ireland,England,12,35
-18 Mar 23,Ireland,England,14,68
-12 Mar 22,England,Ireland,47,24
-24 Nov 24,England,Japan,5,40
-22 Jun 24,Japan,England,17,22
-17 Sep 23,England,Japan,12,35
-12 Nov 22,England,Japan,14,68
-17 Nov 18,England,Japan,47,24
-15 Oct 23,England,Fiji,5,40
-26 Aug 23,England,Fiji,17,22
-19 Nov 16,England,Fiji,12,35
-08 Feb 25,England,France,29,19
-16 Mar 24,France,England,43,17
-11 Mar 23,England,France,31,27
-19 Mar 22,France,England,35,16
-13 Mar 21,England,France,27,42
-14 Nov 20,England,Georgia,5,40
-09 Mar 25,England,Italy,45,0
-03 Feb 24,Italy,England,42,24
-12 Feb 23,England,Italy,6,73
-13 Feb 22,Italy,England,17,22
-13 Feb 21,England,Italy,47,24
-02 Nov 24,England,New Zealand,5,40
-13 Jul 24,New Zealand,England,17,22
-06 Jul 24,New Zealand,England,12,35
-19 Nov 22,England,New Zealand,14,68
-26 Oct 19,England,New Zealand,47,24
-07 Oct 23,England,Samoa,5,40
-25 Nov 17,England,Samoa,17,22
-22 Nov 14,England,Samoa,12,35
-22 Feb 25,England,Scotland,26,29
-24 Feb 24,Scotland,England,35,16
-04 Feb 23,England,Scotland,35,29
-05 Feb 22,Scotland,England,16,15
-06 Feb 21,England,Scotland,18,32
-16 Nov 24,England,South Africa,5,40
-21 Oct 23,England,South Africa,17,22
-26 Nov 22,England,South Africa,12,35
-20 Nov 21,England,South Africa,14,68
-02 Nov 19,England,South Africa,47,24
-06 Nov 21,England,Tonga,5,40
-22 Sep 19,England,Tonga,17,22
-15 Mar 25,Wales,England,5,40
-10 Feb 24,England,Wales,17,22
-12 Aug 23,England,Wales,12,35
-05 Aug 23,Wales,England,14,68
-25 Feb 23,Wales,England,47,24
-03 Jul 21,Ireland,Japan,7,106
-28 Sep 19,Japan,Ireland,5,34
-24 Jun 17,Japan,Ireland,17,22
-17 Jun 17,Japan,Ireland,27,42
-15 Mar 25,Italy,Ireland,7,106
-11 Feb 24,Ireland,Italy,5,34
-05 Aug 23,Ireland,Italy,17,22
-25 Feb 23,Italy,Ireland,27,42
-27 Feb 22,Ireland,Italy,18,27
-01 Nov 25,Ireland,New Zealand,7,106
-08 Nov 24,Ireland,New Zealand,5,34
-14 Oct 23,Ireland,New Zealand,17,22
-16 Jul 22,New Zealand,Ireland,27,42
-09 Jul 22,New Zealand,Ireland,18,27
-26 Aug 23,Ireland,Samoa,7,106
-12 Oct 19,Ireland,Samoa,5,34
-09 Feb 25,Scotland,Ireland,7,106
-16 Mar 24,Ireland,Scotland,5,34
-07 Oct 23,Ireland,Scotland,17,22
-12 Mar 23,Scotland,Ireland,27,42
-19 Mar 22,Ireland,Scotland,18,27
-13 Jul 24,South Africa,Ireland,7,106
-06 Jul 24,South Africa,Ireland,5,34
-23 Sep 23,South Africa,Ireland,17,22
-05 Nov 22,Ireland,South Africa,27,42
-11 Nov 17,Ireland,South Africa,18,27
-16 Sep 23,Ireland,Tonga,7,106
-22 Feb 25,Wales,Ireland,7,106
-24 Feb 24,Ireland,Wales,5,34
-04 Feb 23,Wales,Ireland,17,22
-05 Feb 22,Ireland,Wales,27,42
-07 Feb 21,Wales,Ireland,18,27
-26 Oct 24,Japan,New Zealand,61,7
-29 Oct 22,Japan,New Zealand,15,19
-03 Nov 18,Japan,New Zealand,27,33
-15 Sep 24,Samoa,Japan,31,12
-28 Sep 23,Japan,Samoa,32,32
-22 Jul 23,Japan,Samoa,13,29
-05 Oct 19,Japan,Samoa,15,29
-20 Nov 21,Scotland,Japan,26,29
-13 Oct 19,Japan,Scotland,35,16
-25 Jun 16,Japan,Scotland,35,29
-18 Jun 16,Japan,Scotland,16,15
+28 Sep 24,South Africa,Argentina,48,7
+21 Sep 24,Argentina,South Africa,29,28
+05 Aug 23,Argentina,South Africa,13,24
+28 Sep 19,Argentina,Tonga,28,12
+14 Oct 23,Wales,Argentina,17,29
+12 Nov 22,Wales,Argentina,20,13
+17 Jul 21,Argentina,Wales,33,11
+10 Jul 21,Argentina,Wales,20,20
+16 Jun 18,Argentina,Wales,12,30
+01 Nov 25,England,Australia,25,7
+09 Nov 24,England,Australia,37,42
+16 Jul 22,Australia,England,17,21
+09 Jul 22,Australia,England,17,25
+02 Jul 22,Australia,England,30,28
+30 Nov 24,Ireland,Australia,22,19
+19 Nov 22,Ireland,Australia,13,10
+23 Jun 18,Australia,Ireland,16,20
+16 Jun 18,Australia,Ireland,21,26
+09 Jun 18,Australia,Ireland,18,9
+25 Oct 25,Japan,Australia,15,19
+04 Nov 17,Japan,Australia,30,63
+06 Jul 25,Australia,Fiji,21,18
+17 Sep 23,Australia,Fiji,15,22
+21 Sep 19,Australia,Fiji,39,21
+10 Jun 17,Australia,Fiji,37,14
+27 Aug 23,France,Australia,41,17
+05 Nov 22,France,Australia,30,29
+17 Jul 21,Australia,France,33,30
+13 Jul 21,Australia,France,26,28
+07 Jul 21,Australia,France,23,21
+20 Jul 24,Australia,Georgia,40,29
+09 Sep 23,Australia,Georgia,35,15
+11 Oct 19,Australia,Georgia,27,8
+12 Nov 22,Italy,Australia,28,27
+17 Nov 18,Italy,Australia,7,26
+24 Jun 17,Australia,Italy,40,27
+04 Oct 25,Australia,New Zealand,14,28
+27 Sep 25,New Zealand,Australia,33,24
+28 Sep 24,New Zealand,Australia,33,13
+21 Sep 24,Australia,New Zealand,28,31
+05 Aug 23,New Zealand,Australia,23,20
+24 Nov 24,Scotland,Australia,27,13
+29 Oct 22,Scotland,Australia,15,16
+25 Nov 17,Scotland,Australia,53,24
+17 Jun 17,Australia,Scotland,19,24
+12 Nov 16,Scotland,Australia,22,23
+23 Aug 25,South Africa,Australia,30,22
+16 Aug 25,South Africa,Australia,22,38
+17 Aug 24,Australia,South Africa,12,30
+10 Aug 24,Australia,South Africa,7,33
+08 Jul 23,South Africa,Australia,43,12
+17 Nov 24,Wales,Australia,20,52
+13 Jul 24,Australia,Wales,36,28
+06 Jul 24,Australia,Wales,25,16
+24 Sep 23,Wales,Australia,40,6
+26 Nov 22,Wales,Australia,34,39
+01 Feb 25,Ireland,England,27,22
+09 Mar 24,England,Ireland,23,22
+19 Aug 23,Ireland,England,29,10
+18 Mar 23,Ireland,England,29,16
+12 Mar 22,England,Ireland,15,32
+24 Nov 24,England,Japan,59,14
+22 Jun 24,Japan,England,17,52
+17 Sep 23,England,Japan,34,12
+12 Nov 22,England,Japan,52,13
+17 Nov 18,England,Japan,35,15
+15 Oct 23,England,Fiji,30,24
+26 Aug 23,England,Fiji,22,30
+19 Nov 16,England,Fiji,58,15
+08 Feb 25,England,France,26,25
+16 Mar 24,France,England,33,31
+11 Mar 23,England,France,10,53
+19 Mar 22,France,England,25,13
+13 Mar 21,England,France,23,20
+14 Nov 20,England,Georgia,40,0
+09 Mar 25,England,Italy,47,24
+03 Feb 24,Italy,England,24,27
+12 Feb 23,England,Italy,31,14
+13 Feb 22,Italy,England,0,33
+13 Feb 21,England,Italy,41,18
+02 Nov 24,England,New Zealand,22,24
+13 Jul 24,New Zealand,England,24,17
+06 Jul 24,New Zealand,England,16,15
+19 Nov 22,England,New Zealand,25,25
+26 Oct 19,England,New Zealand,19,7
+07 Oct 23,England,Samoa,18,17
+25 Nov 17,England,Samoa,48,14
+22 Nov 14,England,Samoa,28,9
+22 Feb 25,England,Scotland,16,15
+24 Feb 24,Scotland,England,30,21
+04 Feb 23,England,Scotland,23,29
+05 Feb 22,Scotland,England,20,17
+06 Feb 21,England,Scotland,6,11
+16 Nov 24,England,South Africa,20,29
+21 Oct 23,England,South Africa,15,16
+26 Nov 22,England,South Africa,13,27
+20 Nov 21,England,South Africa,27,26
+02 Nov 19,England,South Africa,12,32
+06 Nov 21,England,Tonga,69,3
+22 Sep 19,England,Tonga,35,3
+15 Mar 25,Wales,England,14,68
+10 Feb 24,England,Wales,16,14
+12 Aug 23,England,Wales,19,17
+05 Aug 23,Wales,England,20,9
+25 Feb 23,Wales,England,10,20
+03 Jul 21,Ireland,Japan,39,31
+28 Sep 19,Japan,Ireland,19,12
+24 Jun 17,Japan,Ireland,13,35
+17 Jun 17,Japan,Ireland,22,50
+15 Mar 25,Italy,Ireland,17,22
+11 Feb 24,Ireland,Italy,36,0
+05 Aug 23,Ireland,Italy,33,17
+25 Feb 23,Italy,Ireland,20,34
+27 Feb 22,Ireland,Italy,57,6
+01 Nov 25,Ireland,New Zealand,13,26
+08 Nov 24,Ireland,New Zealand,13,23
+14 Oct 23,Ireland,New Zealand,24,28
+16 Jul 22,New Zealand,Ireland,22,32
+09 Jul 22,New Zealand,Ireland,12,23
+26 Aug 23,Ireland,Samoa,17,13
+12 Oct 19,Ireland,Samoa,47,5
+09 Feb 25,Scotland,Ireland,18,32
+16 Mar 24,Ireland,Scotland,17,13
+07 Oct 23,Ireland,Scotland,36,14
+12 Mar 23,Scotland,Ireland,7,22
+19 Mar 22,Ireland,Scotland,26,5
+13 Jul 24,South Africa,Ireland,24,25
+06 Jul 24,South Africa,Ireland,27,20
+23 Sep 23,South Africa,Ireland,8,13
+05 Nov 22,Ireland,South Africa,19,16
+11 Nov 17,Ireland,South Africa,38,3
+16 Sep 23,Ireland,Tonga,59,16
+22 Feb 25,Wales,Ireland,18,27
+24 Feb 24,Ireland,Wales,31,7
+04 Feb 23,Wales,Ireland,10,34
+05 Feb 22,Ireland,Wales,29,7
+07 Feb 21,Wales,Ireland,21,16
+26 Oct 24,Japan,New Zealand,19,64
+29 Oct 22,Japan,New Zealand,31,38
+03 Nov 18,Japan,New Zealand,31,69
+15 Sep 24,Samoa,Japan,27,49
+28 Sep 23,Japan,Samoa,28,22
+22 Jul 23,Japan,Samoa,22,24
+05 Oct 19,Japan,Samoa,38,19
+20 Nov 21,Scotland,Japan,29,20
+13 Oct 19,Japan,Scotland,28,21
+25 Jun 16,Japan,Scotland,16,21
+18 Jun 16,Japan,Scotland,13,26
 01 Nov 25,South Africa,Japan,61,7
-20 Oct 19,Japan,South Africa,27,29
-14 Sep 25,Tonga,Japan,35,24
-29 Jul 23,Japan,Tonga,24,62
-18 Nov 17,Japan,Tonga,32,10
+20 Oct 19,Japan,South Africa,3,26
+14 Sep 25,Tonga,Japan,24,62
+29 Jul 23,Japan,Tonga,21,16
+18 Nov 17,Japan,Tonga,39,6
 12 Jul 25,Japan,Wales,22,31
 05 Jul 25,Japan,Wales,24,19
-19 Nov 16,Wales,Japan,14,68
-23 Nov 24,Ireland,Fiji,7,106
-12 Nov 22,Ireland,Fiji,5,34
-18 Nov 17,Ireland,Fiji,17,22
-21 Sep 25,Japan,Fiji,61,7
-21 Sep 24,Fiji,Japan,15,19
-05 Aug 23,Japan,Fiji,27,33
-26 Nov 16,Fiji,Japan,24,62
-19 Aug 23,France,Fiji,29,19
-24 Nov 18,France,Fiji,43,17
-08 Nov 14,France,Fiji,31,27
-05 Jul 24,Georgia,Fiji,55,10
-30 Sep 23,Fiji,Georgia,5,34
-20 Nov 21,Georgia,Fiji,46,28
-05 Dec 20,Georgia,Fiji,43,5
-03 Oct 19,Georgia,Fiji,32,62
-21 Nov 20,Italy,Fiji,45,0
-21 Nov 20,Italy,Fiji,42,24
-11 Nov 17,Fiji,Italy,6,73
-20 Jul 24,New Zealand,Fiji,14,28
-17 Jul 21,New Zealand,Fiji,33,24
-10 Jul 21,New Zealand,Fiji,10,43
-06 Sep 25,Samoa,Fiji,31,12
-06 Sep 25,Fiji,Samoa,32,32
-23 Aug 24,Samoa,Fiji,13,29
-29 Jul 23,Fiji,Samoa,15,29
-12 Jul 25,Fiji,Scotland,27,33
-02 Nov 24,Scotland,Fiji,63,10
-05 Nov 22,Scotland,Fiji,15,29
-10 Nov 18,Scotland,Fiji,32,10
-24 Jun 17,Fiji,Scotland,21,18
-30 Aug 25,Fiji,Tonga,27,33
-06 Sep 24,Tonga,Fiji,63,10
-22 Jul 23,Fiji,Tonga,15,29
-02 Jul 22,Fiji,Tonga,32,10
-23 Jun 18,Fiji,Tonga,21,18
-10 Nov 24,Wales,Fiji,22,31
-10 Sep 23,Wales,Fiji,24,19
-09 Oct 19,Wales,Fiji,14,68
-15 Nov 14,Wales,Fiji,35,29
-08 Mar 25,Ireland,France,29,19
-02 Feb 24,France,Ireland,43,17
-11 Feb 23,Ireland,France,31,27
-12 Feb 22,France,Ireland,35,16
-14 Feb 21,Ireland,France,27,42
-09 Nov 24,France,Japan,29,19
-20 Nov 22,France,Japan,43,17
-09 Jul 22,Japan,France,31,27
-02 Jul 22,Japan,France,35,16
-25 Nov 17,France,Japan,27,42
-14 Nov 21,France,Georgia,29,19
-23 Feb 25,Italy,France,29,19
-25 Feb 24,France,Italy,43,17
-06 Oct 23,France,Italy,31,27
-05 Feb 23,Italy,France,35,16
-06 Feb 22,France,Italy,27,42
-19 Jul 25,New Zealand,France,14,28
-12 Jul 25,New Zealand,France,33,24
-05 Jul 25,New Zealand,France,10,43
-16 Nov 24,France,New Zealand,24,17
-08 Sep 23,France,New Zealand,29,23
-12 Nov 16,France,Samoa,29,19
-15 Mar 25,France,Scotland,26,29
-10 Feb 24,Scotland,France,35,16
-12 Aug 23,France,Scotland,35,29
-05 Aug 23,Scotland,France,16,15
-26 Feb 23,France,Scotland,18,32
-15 Oct 23,France,South Africa,29,19
-12 Nov 22,France,South Africa,43,17
-10 Nov 18,France,South Africa,31,27
-18 Nov 17,France,South Africa,35,16
-24 Jun 17,South Africa,France,27,42
-06 Oct 19,France,Tonga,29,19
-31 Jan 25,France,Wales,22,31
-10 Mar 24,Wales,France,24,19
-18 Mar 23,France,Wales,14,68
-11 Mar 22,Wales,France,35,29
-20 Mar 21,France,Wales,18,27
-05 Jul 25,Georgia,Ireland,55,10
-29 Nov 20,Ireland,Georgia,5,34
-16 Nov 14,Ireland,Georgia,46,28
-13 Jul 24,Japan,Georgia,55,10
-23 Jun 18,Japan,Georgia,5,34
-12 Nov 16,Georgia,Japan,46,28
-05 Sep 15,Japan,Georgia,43,5
-23 Nov 14,Georgia,Japan,32,62
-17 Nov 24,Italy,Georgia,45,0
-10 Jul 22,Georgia,Italy,42,24
-10 Nov 18,Italy,Georgia,6,73
-12 Nov 22,Georgia,Samoa,55,10
-17 Nov 18,Georgia,Samoa,5,34
-19 Nov 16,Georgia,Samoa,46,28
-11 Jun 16,Samoa,Georgia,43,5
-26 Aug 23,Scotland,Georgia,26,29
-23 Oct 20,Scotland,Georgia,35,16
-06 Sep 19,Scotland,Georgia,35,29
-26 Nov 16,Scotland,Georgia,16,15
-19 Jul 25,South Africa,Georgia,61,7
-02 Jul 21,South Africa,Georgia,27,29
-24 Nov 24,Georgia,Tonga,55,10
-24 Nov 18,Georgia,Tonga,5,34
-18 Jun 16,Georgia,Tonga,46,28
-08 Nov 14,Georgia,Tonga,43,5
-07 Oct 23,Wales,Georgia,22,31
-19 Nov 22,Wales,Georgia,24,19
-21 Nov 20,Wales,Georgia,14,68
-23 Sep 19,Wales,Georgia,35,29
-18 Nov 17,Wales,Georgia,18,27
-21 Jul 24,Japan,Italy,61,7
-26 Aug 23,Italy,Japan,15,19
-16 Jun 18,Japan,Italy,27,33
-09 Jun 18,Japan,Italy,24,62
-23 Nov 24,Italy,New Zealand,45,0
-29 Sep 23,New Zealand,Italy,42,24
-24 Nov 18,Italy,New Zealand,6,73
-12 Nov 16,Italy,New Zealand,17,22
-05 Jul 24,Samoa,Italy,31,12
-05 Nov 22,Italy,Samoa,32,32
-08 Nov 14,Italy,Samoa,13,29
-01 Feb 25,Scotland,Italy,45,0
-09 Mar 24,Italy,Scotland,42,24
-29 Jul 23,Scotland,Italy,6,73
-18 Mar 23,Scotland,Italy,17,22
-12 Mar 22,Italy,Scotland,47,24
+19 Nov 16,Wales,Japan,33,30
+23 Nov 24,Ireland,Fiji,52,17
+12 Nov 22,Ireland,Fiji,35,17
+18 Nov 17,Ireland,Fiji,23,20
+21 Sep 25,Japan,Fiji,27,33
+21 Sep 24,Fiji,Japan,41,17
+05 Aug 23,Japan,Fiji,12,35
+26 Nov 16,Fiji,Japan,38,25
+19 Aug 23,France,Fiji,34,17
+24 Nov 18,France,Fiji,14,21
+08 Nov 14,France,Fiji,40,15
+05 Jul 24,Georgia,Fiji,12,21
+30 Sep 23,Fiji,Georgia,17,12
+20 Nov 21,Georgia,Fiji,15,15
+05 Dec 20,Georgia,Fiji,24,38
+03 Oct 19,Georgia,Fiji,10,45
+21 Nov 20,Italy,Fiji,0,0
+11 Nov 17,Italy,Fiji,19,10
+17 Jun 17,Fiji,Italy,22,19
+20 Jul 24,New Zealand,Fiji,47,5
+17 Jul 21,New Zealand,Fiji,60,13
+10 Jul 21,New Zealand,Fiji,57,23
+06 Sep 25,Samoa,Fiji,15,29
+23 Aug 24,Fiji,Samoa,42,16
+29 Jul 23,Samoa,Fiji,19,33
+16 Jul 22,Fiji,Samoa,20,23
+12 Jul 25,Fiji,Scotland,29,14
+02 Nov 24,Scotland,Fiji,57,17
+05 Nov 22,Scotland,Fiji,28,12
+10 Nov 18,Scotland,Fiji,54,17
+24 Jun 17,Fiji,Scotland,27,22
+30 Aug 25,Fiji,Tonga,32,10
+06 Sep 24,Tonga,Fiji,19,50
+22 Jul 23,Fiji,Tonga,36,20
+02 Jul 22,Fiji,Tonga,36,0
+23 Jun 18,Fiji,Tonga,19,27
+10 Nov 24,Wales,Fiji,19,24
+10 Sep 23,Wales,Fiji,32,26
+09 Oct 19,Wales,Fiji,29,17
+15 Nov 14,Wales,Fiji,17,13
+08 Mar 25,Ireland,France,27,42
+02 Feb 24,France,Ireland,17,38
+11 Feb 23,Ireland,France,32,19
+12 Feb 22,France,Ireland,30,24
+14 Feb 21,Ireland,France,13,15
+09 Nov 24,France,Japan,52,12
+20 Nov 22,France,Japan,35,17
+09 Jul 22,Japan,France,15,20
+02 Jul 22,Japan,France,23,42
+25 Nov 17,France,Japan,23,23
+14 Nov 21,France,Georgia,41,15
+23 Feb 25,Italy,France,24,73
+25 Feb 24,France,Italy,13,13
+06 Oct 23,France,Italy,60,7
+05 Feb 23,Italy,France,24,29
+06 Feb 22,France,Italy,37,10
+19 Jul 25,New Zealand,France,29,19
+12 Jul 25,New Zealand,France,43,17
+05 Jul 25,New Zealand,France,31,27
+16 Nov 24,France,New Zealand,30,29
+08 Sep 23,France,New Zealand,27,13
+12 Nov 16,France,Samoa,52,8
+15 Mar 25,France,Scotland,35,16
+10 Feb 24,Scotland,France,16,20
+12 Aug 23,France,Scotland,30,27
+05 Aug 23,Scotland,France,25,21
+26 Feb 23,France,Scotland,32,21
+15 Oct 23,France,South Africa,28,29
+12 Nov 22,France,South Africa,30,26
+10 Nov 18,France,South Africa,26,29
+18 Nov 17,France,South Africa,17,18
+24 Jun 17,South Africa,France,35,12
+06 Oct 19,France,Tonga,23,21
+31 Jan 25,France,Wales,43,0
+10 Mar 24,Wales,France,24,45
+18 Mar 23,France,Wales,41,28
+11 Mar 22,Wales,France,9,13
+20 Mar 21,France,Wales,32,30
+05 Jul 25,Georgia,Ireland,5,34
+29 Nov 20,Ireland,Georgia,23,10
+16 Nov 14,Ireland,Georgia,49,7
+13 Jul 24,Japan,Georgia,23,25
+23 Jun 18,Japan,Georgia,28,0
+12 Nov 16,Georgia,Japan,22,28
+05 Sep 15,Japan,Georgia,10,13
+23 Nov 14,Georgia,Japan,35,24
+17 Nov 24,Italy,Georgia,20,17
+10 Jul 22,Georgia,Italy,28,19
+10 Nov 18,Italy,Georgia,28,17
+12 Nov 22,Georgia,Samoa,19,20
+17 Nov 18,Georgia,Samoa,27,19
+19 Nov 16,Georgia,Samoa,20,16
+11 Jun 16,Samoa,Georgia,19,19
+26 Aug 23,Scotland,Georgia,33,6
+23 Oct 20,Scotland,Georgia,48,7
+06 Sep 19,Scotland,Georgia,36,9
+26 Nov 16,Scotland,Georgia,43,16
+19 Jul 25,South Africa,Georgia,55,10
+02 Jul 21,South Africa,Georgia,40,9
+24 Nov 24,Georgia,Tonga,22,7
+24 Nov 18,Georgia,Tonga,20,9
+18 Jun 16,Georgia,Tonga,23,20
+08 Nov 14,Georgia,Tonga,9,23
+07 Oct 23,Wales,Georgia,43,19
+19 Nov 22,Wales,Georgia,12,13
+21 Nov 20,Wales,Georgia,18,0
+23 Sep 19,Wales,Georgia,43,14
+18 Nov 17,Wales,Georgia,13,6
+21 Jul 24,Japan,Italy,14,42
+26 Aug 23,Italy,Japan,42,21
+16 Jun 18,Japan,Italy,22,25
+09 Jun 18,Japan,Italy,34,17
+23 Nov 24,Italy,New Zealand,11,29
+29 Sep 23,New Zealand,Italy,96,17
+24 Nov 18,Italy,New Zealand,3,66
+12 Nov 16,Italy,New Zealand,10,68
+05 Jul 24,Samoa,Italy,33,25
+05 Nov 22,Italy,Samoa,49,17
+08 Nov 14,Italy,Samoa,24,13
+01 Feb 25,Scotland,Italy,31,19
+09 Mar 24,Italy,Scotland,31,29
+29 Jul 23,Scotland,Italy,25,13
+18 Mar 23,Scotland,Italy,26,14
+12 Mar 22,Italy,Scotland,22,33
 12 Jul 25,South Africa,Italy,45,0
 05 Jul 25,South Africa,Italy,42,24
-19 Nov 22,Italy,South Africa,6,73
-04 Oct 19,South Africa,Italy,17,22
-25 Nov 17,Italy,South Africa,47,24
-12 Jul 24,Tonga,Italy,35,24
-26 Nov 16,Italy,Tonga,24,62
-08 Feb 25,Italy,Wales,22,31
-16 Mar 24,Wales,Italy,24,19
-11 Mar 23,Italy,Wales,14,68
-19 Mar 22,Wales,Italy,35,29
-13 Mar 21,Italy,Wales,18,27
-16 Jun 17,New Zealand,Samoa,14,28
-08 Jul 15,Samoa,New Zealand,33,24
-13 Nov 22,Scotland,New Zealand,26,29
-18 Nov 17,Scotland,New Zealand,35,16
-15 Nov 14,Scotland,New Zealand,35,29
-13 Sep 25,New Zealand,South Africa,61,7
-06 Sep 25,New Zealand,South Africa,27,29
-07 Sep 24,South Africa,New Zealand,67,30
-31 Aug 24,South Africa,New Zealand,10,43
-28 Oct 23,New Zealand,South Africa,24,17
-03 Jul 21,New Zealand,Tonga,14,28
-07 Sep 19,New Zealand,Tonga,33,24
-05 Nov 22,Wales,New Zealand,22,31
-01 Nov 19,New Zealand,Wales,24,19
-25 Nov 17,Wales,New Zealand,14,68
-25 Jun 16,New Zealand,Wales,35,29
-18 Jun 16,New Zealand,Wales,18,27
-18 Jul 25,Samoa,Scotland,31,12
-30 Sep 19,Scotland,Samoa,32,32
-11 Nov 17,Scotland,Samoa,13,29
-23 Aug 25,Tonga,Samoa,35,24
-30 Aug 24,Samoa,Tonga,24,62
-05 Aug 23,Samoa,Tonga,32,10
-09 Jul 22,Samoa,Tonga,30,16
-17 Jul 21,Tonga,Samoa,22,7
-23 Jun 17,Samoa,Wales,31,12
-10 Nov 24,Scotland,South Africa,26,29
-10 Sep 23,South Africa,Scotland,35,16
-17 Nov 18,Scotland,South Africa,35,29
-24 Sep 23,Scotland,Tonga,26,29
-22 Nov 14,Scotland,Tonga,35,16
-08 Mar 25,Scotland,Wales,22,31
-03 Feb 24,Wales,Scotland,24,19
-11 Feb 23,Scotland,Wales,14,68
-12 Feb 22,Wales,Scotland,35,29
-13 Feb 21,Scotland,Wales,18,27
-01 Oct 23,South Africa,Tonga,61,7
-23 Nov 24,Wales,South Africa,22,31
-22 Jun 24,South Africa,Wales,24,19
-19 Aug 23,Wales,South Africa,14,68
-16 Jul 22,South Africa,Wales,35,29
-09 Jul 22,South Africa,Wales,18,27
-17 Nov 18,Wales,Tonga,22,31
-16 Jun 17,Tonga,Wales,24,19
+19 Nov 22,Italy,South Africa,21,63
+04 Oct 19,South Africa,Italy,49,3
+25 Nov 17,Italy,South Africa,6,35
+12 Jul 24,Tonga,Italy,14,36
+26 Nov 16,Italy,Tonga,17,19
+08 Feb 25,Italy,Wales,22,15
+16 Mar 24,Wales,Italy,21,24
+11 Mar 23,Italy,Wales,17,29
+19 Mar 22,Wales,Italy,21,22
+13 Mar 21,Italy,Wales,7,48
+16 Jun 17,New Zealand,Samoa,78,0
+08 Jul 15,Samoa,New Zealand,16,25
+13 Nov 22,Scotland,New Zealand,23,31
+18 Nov 17,Scotland,New Zealand,17,22
+15 Nov 14,Scotland,New Zealand,16,24
+13 Sep 25,New Zealand,South Africa,10,43
+06 Sep 25,New Zealand,South Africa,24,17
+07 Sep 24,South Africa,New Zealand,18,12
+31 Aug 24,South Africa,New Zealand,31,27
+28 Oct 23,New Zealand,South Africa,11,12
+03 Jul 21,New Zealand,Tonga,102,0
+07 Sep 19,New Zealand,Tonga,92,7
+05 Nov 22,Wales,New Zealand,23,55
+01 Nov 19,New Zealand,Wales,40,17
+25 Nov 17,Wales,New Zealand,18,33
+25 Jun 16,New Zealand,Wales,46,6
+18 Jun 16,New Zealand,Wales,36,22
+18 Jul 25,Samoa,Scotland,12,41
+30 Sep 19,Scotland,Samoa,34,0
+11 Nov 17,Scotland,Samoa,44,38
+23 Aug 25,Tonga,Samoa,30,16
+30 Aug 24,Samoa,Tonga,43,17
+05 Aug 23,Samoa,Tonga,34,9
+09 Jul 22,Samoa,Tonga,34,18
+17 Jul 21,Tonga,Samoa,15,37
+23 Jun 17,Samoa,Wales,17,19
+10 Nov 24,Scotland,South Africa,15,32
+10 Sep 23,South Africa,Scotland,18,3
+17 Nov 18,Scotland,South Africa,20,26
+24 Sep 23,Scotland,Tonga,45,17
+22 Nov 14,Scotland,Tonga,37,12
+08 Mar 25,Scotland,Wales,35,29
+03 Feb 24,Wales,Scotland,26,27
+11 Feb 23,Scotland,Wales,35,7
+12 Feb 22,Wales,Scotland,20,17
+13 Feb 21,Scotland,Wales,24,25
+01 Oct 23,South Africa,Tonga,49,18
+23 Nov 24,Wales,South Africa,12,45
+22 Jun 24,South Africa,Wales,41,13
+19 Aug 23,Wales,South Africa,16,52
+16 Jul 22,South Africa,Wales,30,14
+09 Jul 22,South Africa,Wales,12,13
+17 Nov 18,Wales,Tonga,74,24
+16 Jun 17,Tonga,Wales,6,24

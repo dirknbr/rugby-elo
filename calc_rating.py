@@ -4,9 +4,10 @@ from utils import *
 
 data1 = pd.read_csv('match_data_20230826.csv', parse_dates=['date'])
 data2 = pd.read_csv('match_data_20241102.csv', parse_dates=['date'])
+data3 = pd.read_csv('match_data_20251102.csv', parse_dates=['date'])
 
 # make one unique file
-data = pd.concat([data1, data2])
+data = pd.concat([data1, data2, data3])
 data = data.drop_duplicates()
 
 print(len(data))
